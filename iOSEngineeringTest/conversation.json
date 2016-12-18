@@ -1,0 +1,19 @@
+{
+  "messages":[{
+    "blurb": "A simple email with an inlined image",
+    "body": "<div style=\"font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial; font-size: 13px;\" class=\"main-style-e329a52cc0bc1335ab3a\"><p>This is a simple Email with text and inline images.</p><p><img width=\"200\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/GoldenGateBridge-001.jpg/2880px-GoldenGateBridge-001.jpg\" alt /></p><p>Hoes does it look like?</p><br><div class=\"front-signature fa-uid_224686b8f2e03f92c9e3133c0b75e64e\"><div><span style=\"font-size: 13px;\">Thank you</span></div><div><span style=\"font-size: 13px;\">—</span></div><div>The Front Team</div></div></div>",
+    "content_loaded": true
+  },{
+    "blurb": "Click me! Message 2",
+    "body": "<div style=\"font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial; font-size: 13px;\" class=\"main-style-e329a52cc0bc1335ab3a\"><p>TThis is a second email.<br/>There is no images in this one, so loading should be much faster.</p><p>Hoes does it look like?</p><br><div class=\"front-signature fa-uid_224686b8f2e03f92c9e3133c0b75e64e\"><div><span style=\"font-size: 13px;\">Thank you</span></div><div><span style=\"font-size: 13px;\">—</span></div><div>The Front Team</div></div></div>",
+    "content_loaded": false
+  },{
+    "blurb": "Click me! Message 3",
+    "body": "<div style=\"font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial; font-size: 13px;\" class=\"main-style-e329a52cc0bc1335ab3a\"><p>This is a third email and also contains inline images.</p><p><img width=\"200\" src=\"https://lonelyplanetimages.imgix.net/a/g/hi/t/f4003584e847990e3cae4b5d8062e342-los-angeles.jpg?sharp=10&vib=20&w=1200\" alt /></p><p>The email could go on an on and on. ?</p><p><img width=\"200\" src=\"https://media-cdn.tripadvisor.com/media/photo-s/07/03/4d/a9/eiffel-tower.jpg\" alt /></p><br><div class=\"front-signature fa-uid_224686b8f2e03f92c9e3133c0b75e64e\"><div><span style=\"font-size: 13px;\">Thank you</span></div><div><span style=\"font-size: 13px;\">—</span></div><div>The Front Team</div></div></div>",
+    "content_loaded": false
+  },{
+    "blurb": "Click me! Message 4",
+    "body": "<div style=\"font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial; font-size: 13px;\" class=\"main-style-e329a52cc0bc1335ab3a\"><p>Hi FrontApp.</p><p>A fifth email in this thread. This app rock. Thanks to you it is going to be even better!.</p><p>Please keep up with the good work!</p><br><div class=\"front-signature fa-uid_224686b8f2e03f92c9e3133c0b75e64e\"><div><span style=\"font-size: 13px;\">Thank you</span></div><div><span style=\"font-size: 13px;\">—</span></div><div>The Front Team</div></div></div>",
+    "content_loaded": false
+  }]
+}
